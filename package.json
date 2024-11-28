@@ -1,0 +1,17 @@
+{
+  "name": "chatgpt-sideapp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Yûnis Sebany",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@electron-forge/cli": "^7.6.0",
+    "electron": "^33.2.1"
+  }
+}
